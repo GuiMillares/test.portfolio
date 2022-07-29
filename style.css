@@ -12,7 +12,7 @@ BODY{
 
 .header-container{
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     background-color: #c0c9f0;
     background-image: url(https://iili.io/SVLTxe.png);
     background-repeat: no-repeat; 
